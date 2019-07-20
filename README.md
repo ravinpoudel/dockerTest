@@ -218,7 +218,7 @@ Now navigate to your local directory `/barseq/output/` where (if every things, d
 ```
 
 
-## 9. Commonly use tools for Docker:
+## 10. Commonly use tools for Docker:
 
 ```
 
