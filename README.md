@@ -27,7 +27,7 @@ rocker/tidyverse
 #############################################################################################
     -d                       ## Run in detached mode instead of -it mode (interactive mode)
     --name rstudio           ## Assign a name to the container
-    -v $(pwd):/home/rstudio  ## mount pwd [path_to_shared_local_directory] to access from container at /home/rstudio 	           				   HOST_DIR:CONTAINER_DIR
+    -v $(pwd):/home/rstudio  ## mount pwd [path_to_shared_local_directory] to access from container at /home/rstudio 	HOST_DIR:CONTAINER_DIR
     -e PASSWORD=test         ## Password
     -p 8787:8787             ## Make a port available to services outside of Docker
     rocker/tidyverse         ## Docker image file 
