@@ -239,5 +239,9 @@ docker container prune 		## remove all stopped containers
 ```
 
 ## 10. Resources
+
+```
 	[Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 	[Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
+	
+```
