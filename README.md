@@ -1,4 +1,16 @@
-# dockerTest
+# Docker
+
+Docker is one of the containerization system that allows multiple isolated operating systems to run inside a larger, host system. 
+
+# Advantages
+
+Bundled Dependencies 
+
+Cross-platform Installation
+
+Easy Distribution via images, which can be pushed to the docker hub
+
+
 ## 1. Running RStudio Server with Docker
 
 Download an image from Docker hub. [Rocker](https://hub.docker.com/u/rocker/) contains Dockerfiles relevant to R and R-users. 
