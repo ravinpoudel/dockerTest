@@ -266,5 +266,7 @@ docker container prune 		## remove all stopped containers
 
 [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
 
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006144
+[Cloud computing applications for biomedical science: A perspective](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006144)
+
+[Container-based bioinformatics with Pachyderm](https://www.google.com/search?client=firefox-b-1-d&q=container+based+bioninfomatics+with+pachyudem)
 
