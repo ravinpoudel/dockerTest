@@ -228,6 +228,16 @@ Now navigate to your local directory `/barseq/output/` where (if every things, d
 ```
 
 ```
+## 4. Kubernetes for ochestrating containerzied applications
+
+```
+
+```
+## 5. Pachyderm workflow tool
+
+```
+
+```
 
 
 
