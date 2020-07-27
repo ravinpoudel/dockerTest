@@ -271,5 +271,6 @@ docker container prune 		## remove all stopped containers
 [Container-based bioinformatics with Pachyderm](https://www.google.com/search?client=firefox-b-1-d&q=container+based+bioninfomatics+with+pachyudem)
 
 https://github.com/pachyderm/pachyderm/tree/master/examples/gatk
+[Smaller Docker images with Conda](https://jcristharif.com/conda-docker-tips.html)
 
 
